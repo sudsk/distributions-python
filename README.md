@@ -1,2 +1,2 @@
-# gaussian
-Gaussian python package
+# Distributions
+Distributions python package
